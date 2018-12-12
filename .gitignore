@@ -1,0 +1,14 @@
+/bin/
+.classpath
+/.idea/.project
+.project
+/src/.classpath
+/src/.gitignore
+/src/.project
+/src/FUN
+/src/FUN_NSGAII
+/src/NSGAII_main.log
+/src/VAR
+/.idea/
+/out/
+/src/jmetal/data/CVRPTW/ParametricConfiguration/
